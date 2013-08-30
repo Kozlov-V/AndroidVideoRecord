@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377850441000 414 e8fc56d67aa707096d3ec277575036a132a4ca27 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$menu.class
+1377850966000 1798 3638534ba95ebd78e61d7fad3d7348cd848c6854 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/VideoRecordActivity$1.class
+1377850441000 490 3aea6d31afca22834abc2f96212720404ecd78e7 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$string.class
+1377850441000 829 ef735d75e6e6ef1e2f8c5a575e18d93c173b4099 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$drawable.class
+1377850441000 699 d387d41de43e8c27e288d380d5fc7caf3af7ded1 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$id.class
+1377850441000 737 66fafb6e9ea47abd4d78f424ef1f1b50a67dadda /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R.class
+1377850441000 1728 143ad0438bfc47680a84dfd2c75aa0b4a970bddf /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/widget/RecordButton.class
+1377849764000 479 56a18262a0a98e21741a78120168a4f1e51c04f3 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$dimen.class
+1377849764000 358 b2f15b57cb242558f66968f0b8052583aed826b4 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$attr.class
+1377592116000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/yugy/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1377849764000 357 c10b1589d8bc8a8d13b9b9c3208d4551b26d0c59 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/BuildConfig.class
+1377850441000 449 d612c18b241daee34a73e9d60cf58aff9512c3ae /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$style.class
+1377850441000 472 3e4e8aa226650eb30b07e5c24012559ae20e3a72 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/R$layout.class
+1377850981000 7016 45342bbc59d9ca603c9c1549c29e5669a86c8785 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/classes/debug/com/yugy/videorecordtest/VideoRecordActivity.class

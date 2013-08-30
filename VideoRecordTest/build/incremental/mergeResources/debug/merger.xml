@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res" >
+            <file
+                name="video_record"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/menu/video_record.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light.NoTitleBar" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >VideoRecordTest
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                name="nav_icon_back_pressed"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_back_pressed.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nav_icon_back_background"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_back_background.xml"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nav_icon_done_pressed"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_done_pressed.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nav_icon_done"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_done.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="video_record"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/video_record.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nav_icon_back"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_back.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="video_switchcam"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/video_switchcam.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navbg"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/navbg.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="video_record_btn"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/video_record_btn.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nav_icon_done_background"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_done_background.xml"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_video_record"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/layout/activity_video_record.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="widget_recordbutton"
+                path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/layout/widget_recordbutton.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/debug/res" />
+    </dataSet>
+
+</merger>

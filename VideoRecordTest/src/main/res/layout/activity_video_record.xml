@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".VideoRecordActivity" >
+
+    <SurfaceView
+            android:id="@+id/videorecord_surfaceview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/navbg"
+            />
+
+    <ImageButton
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/videorecord_back"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/nav_icon_back_background"
+            />
+
+    <ImageButton
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/videorecord_ok"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/nav_icon_done_background"
+            />
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="录像"
+            android:textColor="#FFF"
+            android:textSize="18sp"
+            android:layout_toLeftOf="@id/videorecord_ok"
+            android:layout_toRightOf="@id/videorecord_back"
+            android:gravity="center"
+            />
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#99000000"
+            android:layout_alignParentBottom="true"
+            >
+
+        <com.yugy.videorecordtest.widget.RecordButton
+                android:id="@+id/videorecord_record"
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:layout_centerInParent="true"
+                />
+
+        <TextView
+                android:layout_toLeftOf="@id/videorecord_record"
+                android:layout_marginRight="30dp"
+                android:id="@+id/videorecord_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0″/15″"
+                android:layout_centerVertical="true"
+                android:textColor="#FFF"
+                android:textSize="20sp"
+                />
+
+        <ImageView
+                android:layout_centerVertical="true"
+                android:id="@+id/videorecord_swap"
+                android:layout_width="64dp"
+                android:layout_height="match_parent"
+                android:scaleType="center"
+                android:layout_toRightOf="@id/videorecord_record"
+                android:src="@drawable/video_switchcam"
+                android:layout_marginLeft="30dp"
+                />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

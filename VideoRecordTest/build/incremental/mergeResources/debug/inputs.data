@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375782796000 1934 eb71241ded2377be0d4ed3f96074b8d964443242 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_done_pressed.png
+1375782806000 1821 ffb7c64c18cbc962f9be158f7a1e72026b7d60de /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_back.png
+1375768888000 1807 cd7487defeed22a2ba9324a4b677190a20bfd4be /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/video_record.png
+1375768797000 1459 6408d6a448bcf832bbe8621f78587d946592f7f7 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/video_switchcam.png
+1377850235000 691 13c52892feb70bf490e661a2f986cbe96e726d04 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/values/styles.xml
+1375782802000 1839 51ace94966b1ee8c91246d898548383de66c05e5 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_back_pressed.png
+1375856312000 456 455f020857bbda62e54da9205ba8501cccef1b30 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/layout/widget_recordbutton.xml
+1377850388000 3183 a5b8210161ad0fbd3c97934b0ee06968efd8d951 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/layout/activity_video_record.xml
+1375783578000 314 27274b84627b10da304a39ce3406616623217912 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_done_background.xml
+1375783635000 314 e382432c368444d4220f205abcb3918a7c395d9c /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_back_background.xml
+1377848588000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/menu/video_record.xml
+1375758208000 1055 5ac08ae8c9cf9fdcac19a22faa09b316442208bd /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/navbg.png
+1377848588000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/values/dimens.xml
+1375768891000 2413 413527f64d05c2e7eb939d4a018b2505905ade0f /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/video_record_btn.png
+1377848588000 225 4fe5ac54a8f90ace8de417256beaa77c665218ab /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/values/strings.xml
+1375782799000 1869 27a6b6f5ce51b7f2f77fbd913e7f8439018d490c /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/nav_icon_done.png
+1377848586000 485 bd7e2ceaf574d56589db16365f2c0ca637cfc919 /home/yugy/AndroidStudioProjects/VideoRecordTestProject/VideoRecordTest/src/main/res/drawable-xhdpi/ic_launcher.png
